@@ -4,8 +4,8 @@
  *    Tuba Farm Equipment
  *    Variables and functions
  *    
- *    Author: 
- *    Date:   
+ *    Author: Millione Johnson
+ *    Date: 8/3/19  
 
  *    Filename: tuba.js
  */
@@ -14,7 +14,7 @@
 var acresComplete = true;
 var cropsComplete = true;
 var monthsComplete = true;
-ar fuelComplete = true;
+var fuelComplete = true;
 
 /* global variables referencing sidebar h2 and p elements */
 var messageHeadElement = document.getElementById("messageHead");
